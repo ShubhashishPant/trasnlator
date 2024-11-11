@@ -1,0 +1,28 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Flask-specific
+instance/
+.webassets-cache/
+
+# Environment variable files
+.env
+*.env
+
+# Database files
+*.sqlite3
+*.db
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
